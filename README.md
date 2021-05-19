@@ -14,7 +14,7 @@ To run this project locally, run the following command  `yarn start` or `npm sta
 
 ### Netlify Deployment
 
-Spacex app is deployed on **Netlify** for assignment of codersBrain[Spacex-Launch-Programs](https://codersbrain.netlify.app/)
+Spacex app is deployed on **Netlify** for assignment of codersBrain [Spacex-Launch-Programs](https://codersbrain.netlify.app/)
 
 
 ## UI And Filter Implementation
